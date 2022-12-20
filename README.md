@@ -31,3 +31,7 @@ Function of Gram Panchayet member:
 Flow Chart:
 -----------
 ![FlowChart](https://user-images.githubusercontent.com/107456964/208634732-bb5b96a7-c1d5-40cf-b7e4-0299cbb1fe47.png)
+
+Er-Diagram:
+-----------
+![ErDiagram](https://user-images.githubusercontent.com/107456964/208635179-06238e7a-9f07-4b88-9a7c-3bafc2332da8.png)
